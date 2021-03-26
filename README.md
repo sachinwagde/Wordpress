@@ -1,4 +1,4 @@
 # Wordpress
 first wordpress github
 
-Thank you so mucch 
+Thank you so much 
